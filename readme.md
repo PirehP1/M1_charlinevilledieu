@@ -1,4 +1,4 @@
-# Memoire Charline
+# Memoire M1 SDHC Charline
 
 Les notebook sont thématiques et dans la plupart des cas interdépendants.<br>
 Il est nécessaire de suivre la progression suivante:  <br>
@@ -9,3 +9,6 @@ Il est nécessaire de suivre la progression suivante:  <br>
 * géocodage des LOC (géocodage)
 * cartographie (cartographie)
 * certains graphiques utilisés dans le mémoire (graphiques_mémoire)
+
+Ces notebooks s'appuient sur les supports de cours et les notebooks développés par [Léo Dumont](https://github.com/leodumont)
+L'ensemble du pipeline repose sur le paquet [⁠ lexploreur ⁠](https://github.com/leodumont/lexploreur) pour la construction et l'exploitation des corpus JSON annotés par spaCy.
